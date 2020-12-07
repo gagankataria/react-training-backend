@@ -1,0 +1,24 @@
+{
+  "name": "react-training-backend",
+  "version": "1.0.0",
+  "description": "this is training backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "https://github.com/gagankataria/react-training-backend"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gagankataria/react-training-backend.git"
+  },
+  "keywords": [
+    "react",
+    "training",
+    "backend"
+  ],
+  "author": "Gagan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gagankataria/react-training-backend/issues"
+  },
+  "homepage": "https://github.com/gagankataria/react-training-backend#readme"
+}
